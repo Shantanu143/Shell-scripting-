@@ -1,0 +1,8 @@
+#!/bin/bash
+
+#costant varibale 
+readonly COLLEGE="DITMS"
+
+echo "my collage name is $COLLEGE"
+
+COLLEGE="TEST"

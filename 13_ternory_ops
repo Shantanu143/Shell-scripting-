@@ -1,0 +1,5 @@
+#!/bin/bash
+
+read -p "Enter your age " age
+
+[[ age -gt 18 ]] &&  echo "Your a adult " || echo "Your a minor"
